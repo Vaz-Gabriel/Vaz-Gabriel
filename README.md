@@ -73,9 +73,3 @@ Tenho afinidade com desenvolvimento web e gosto de trabalhar com HTML, CSS, Java
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Vaz-Gabriel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
----
-
-### 🌐 Projetos em Destaque
-
-- **Portfólio Pessoal**: [gabrielfrancovaz.github.io](https://gabrielfrancovaz.github.io)  
