@@ -1,16 +1,91 @@
-## Hi there 👋
+# 👨🏻‍💻 Gabriel Franco Vaz
 
-<!--
-**Vaz-Gabriel/Vaz-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Gabriel Franco Vaz, tenho 19 anos e sou natural de Viradouro, São Paulo. Finalizei o ensino médio, onde desenvolvi um projeto de simulador de avião, construindo os materiais utilizados e realizando a programação em C++ com Arduino Uno. Atualmente, estou cursando o 3º ano do curso de Sistemas de Informação. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e desafios.  
+Tenho afinidade com desenvolvimento web e gosto de trabalhar com HTML, CSS, JavaScript, Node.js e C#, mas estou sempre disposto a aprender novas linguagens de programação.
 
-Here are some ideas to get you started:
+<p align="left">
+    <a href="https://www.linkedin.com/in/gabriel-franco-vaz-4049bb268/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Gabriel no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" 
+        />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=**SEU_USUARIO_AQUI**&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=**SEU_USUARIO_AQUI**&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
