@@ -81,12 +81,14 @@ Tenho afinidade com desenvolvimento web e gosto de trabalhar com HTML, CSS, Java
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; display: inline-block;" 
     src="https://github-readme-stats.vercel.app/api?username=Vaz-Gabriel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Tecnologias" 
       height="200" 
+      style="display: inline-block;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaz-Gabriel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
