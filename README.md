@@ -84,7 +84,7 @@ Me chamo Gabriel Franco Vaz, tenho 19 anos e sou natural de Viradouro, São Paul
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaz-Gabriel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
