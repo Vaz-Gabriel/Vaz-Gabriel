@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Gabriel Franco Vaz
+# Gabriel Franco Vaz
 
 Me chamo Gabriel Franco Vaz, tenho 19 anos e sou natural de Viradouro, São Paulo. Finalizei o ensino médio, onde desenvolvi um projeto de simulador de avião, construindo os materiais utilizados e realizando a programação em C++ com Arduino Uno. Atualmente, estou cursando o 3º ano do curso de Sistemas de Informação. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e desafios. Tenho afinidade com desenvolvimento web e gosto de trabalhar com HTML, CSS, JavaScript, Node.js e C#, mas estou sempre disposto a aprender novas linguagens de programação.
 
