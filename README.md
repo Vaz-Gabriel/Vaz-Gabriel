@@ -1,6 +1,12 @@
 # Gabriel Franco Vaz
 
-Me chamo Gabriel Franco Vaz, tenho 21 anos. Finalizei o ensino médio, onde desenvolvi um projeto de simulador de avião, construindo os materiais utilizados e realizando a programação em C++ com Arduino Uno. Atualmente, estou cursando o 3º ano do curso de Sistemas de Informação. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e desafios. Tenho afinidade com desenvolvimento web e gosto de trabalhar com HTML, CSS, JavaScript, Node.js e C#, mas estou sempre disposto a aprender novas linguagens de programação.
+Meu nome é Gabriel Franco Vaz, tenho 21 anos e estou no último semestre do curso de Sistemas de Informação. Sou apaixonado por tecnologia e estou constantemente buscando novos conhecimentos, desafios e oportunidades para colocar minhas habilidades em prática.
+
+Durante minha formação, desenvolvi diferentes projetos, incluindo um simulador de avião, no qual fui responsável pela construção dos materiais e pela programação em C++ utilizando Arduino Uno. Atualmente, tenho direcionado meus estudos e projetos para o desenvolvimento de aplicações web, criando e-commerces, jogos e outras soluções utilizando tecnologias como HTML, CSS, JavaScript, Node.js e C#.
+
+Além da área de desenvolvimento, também venho ampliando meus conhecimentos em Quality Assurance (QA), realizando cursos e estudando conceitos relacionados a testes de software, identificação e análise de problemas, validação de funcionalidades e qualidade das aplicações. Busco constantemente aprimorar minhas habilidades técnicas, conhecer novas tecnologias e compreender diferentes etapas do desenvolvimento de software.
+
+Tenho facilidade para aprender, gosto de resolver problemas e estou sempre disposto a adquirir novos conhecimentos, explorar diferentes áreas da tecnologia e me adaptar a novas ferramentas e metodologias.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-franco-vaz-4049bb268/" target="_blank">
